@@ -13,7 +13,8 @@
 ## **🌍 About Me**  
 I build **secure, scalable decentralized systems** with:  
 - **Low-Level Mastery**: C/C++, VM design, networking (HTTP/TCP/IP).  
-- **Blockchain Stack**: Solidity, EVM, Hardhat, protocol design, RPCs.  
+- **Blockchain Stack**: Solidity, EVM, Hardhat, protocol design, RPCs.
+- **Full-Stack**: TypeScript, JavaScript, Node.js
 - **Systems Thinking**: From kernel modules to distributed algorithms.  
 
 Passionate about **autonomy, privacy, and systems that resist censorship**.  
