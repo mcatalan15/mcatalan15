@@ -35,7 +35,7 @@ Passionate about **autonomy, privacy, and systems that resist censorship**.
 - **[ft_transcendence](https://github.com/mcatalan15/ft_transcendence)**: Full-stack Pong with blockchain, 2FA, and microservices.
 - **[ft_irc](https://github.com/mcatalan15/ft_irc)**: IRC server in C++98 with TCP/IP, bots, and file transfer.  
 - **[minishell](https://github.com/mcatalan15/minishell)**: Custom shell with job control (lex/yacc).
-- **[More from 42](https://github.com/mcatalan15/ft_transcendence)**.
+- **[More from 42](https://github.com/mcatalan15/42readme)**.
 
 ### **Epitech Tek1** *(SWE + Business)*  
 - **[MyRPG](https://github.com/mcatalan15/Epitech/tree/main/Semester2/B-MUL-200/MyRPG)**: Open-world RPG (C/SFML).  
