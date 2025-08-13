@@ -41,10 +41,10 @@ Passionate about **autonomy, privacy, and systems that resist censorship**.
 - **[MyRPG](https://github.com/mcatalan15/Epitech/tree/main/Semester2/B-MUL-200/MyRPG)**: Open-world RPG (C/SFML).  
 - **[need4stek](https://github.com/mcatalan15/Epitech/tree/main/Semester2/B-AIA-200/need4stek)**: Autonomous car AI (PID control).  
 - **[42sh](https://github.com/mcatalan15/Epitech/tree/main/Semester2/B-PSU-210/42sh)**: Full-featured shell (pipes/redirections).
-- **[More from Epitech](https://github.com/mcatalan15/ft_transcendence)**.
+- **[More from Epitech](https://github.com/mcatalan15/Epitech)**.
 
 ### **ASIX** *(Legacy Project)*  
-- **[HypeApp](https://github.com/mcatalan15/Epitech/tree/main/Semester2/B-MUL-200/MyRPG)**: Mobile app for iOS (Swift, Objective-C, Firebase).  
+- **[HypeApp](https://github.com/mcatalan15/hypeapp)**: Mobile app for iOS (Swift, Objective-C, Firebase).  
 
 ---
 
