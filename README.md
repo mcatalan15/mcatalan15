@@ -77,7 +77,7 @@ Full-Stack: TypeScript | Fastify | Tailwind | SQLite
 ## **📫 Let’s Connect**  
 - **🔗 LinkedIn**: [marccatalan](www.linkedin.com/in/marccatalan)  
 - **📧 Email**: [mcatalan@student.42barcelona.com](mailto:mcatalan@student.42barcelona.com)
-- **42 Profile**: [mcatalan]([www.linkedin.com/in/marccatalan](https://profile-v3.intra.42.fr/users/mcatalan))
+- **42 Profile**: [mcatalan](https://profile.intra.42.fr/users/mcatalan)
 
 --- 
 
