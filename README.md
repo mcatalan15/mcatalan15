@@ -32,8 +32,8 @@ Passionate about **autonomy, privacy, and systems that resist censorship**.
 ## 🛠️ **Now Working On**  
 ### [**Zap**](https://github.com/mcatalan15/Zap) 🚧  
 ↳ *Decentralized EXchange (DEX)* | *TypeScript, Go, Solidity, Ethereum*  
-### [**Inception-of-Things**](https://github.com/mrlouf/Inception-of-Things) 🚧  
-↳ *Outer Core* | *Kubernetes and Vagrant!*  
+### [**ft_linux**](https://github.com/mcatalan15/ft_linux) 🚧  
+↳ *Outer Core* | *Building a basic Linux distro for kernel development using LFS* 
 
 ---
 
