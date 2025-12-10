@@ -31,11 +31,11 @@ Passionate about **autonomy, privacy, and systems that resist censorship**.
 
 ## 🛠️ **Now Working On**  
 ### [**Zap**](https://github.com/mcatalan15/Zap) 🚧  
-↳ *Decentralized EXchange (DEX)* | *TypeScript, Go, Solidity, Ethereum*  
+↳ *Decentralized EXchange (DEX)* | *TypeScript, Go, Solidity, Ethereum*
+### [**42sh**](https://github.com/mrlouf/42sh) 🚧  
+↳ *Outer Core* | *Building a bash shell in C* 
 ### [**ft_linux**](https://github.com/mcatalan15/ft_linux) 🚧  
 ↳ *Outer Core* | *Building a basic Linux distro for kernel development using LFS*
-### [**42sh**](https://github.com/mcatalan15/ft_linux) 🚧  
-↳ *Outer Core* | *Building a bash shell in C* 
 
 ---
 
