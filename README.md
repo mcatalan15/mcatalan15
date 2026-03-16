@@ -15,7 +15,8 @@ I build **secure, scalable decentralized systems** with:
 - **Low-Level Mastery**: C/C++, VM design, networking (HTTP/TCP/IP).  
 - **Blockchain Stack**: Solidity, EVM, Hardhat, protocol design, RPCs.
 - **Full-Stack**: TypeScript, JavaScript, Node.js
-- **Systems Thinking**: From kernel modules to distributed algorithms.  
+- **Systems Thinking**: From kernel modules to distributed algorithms.
+- **DevOps Stack**: Docker, Docker-compose, Kubernetes (k3d,k8s), Vagrantfile, and VM  
 
 Passionate about **autonomy, privacy, and systems that resist censorship**.  
 
@@ -24,18 +25,15 @@ Passionate about **autonomy, privacy, and systems that resist censorship**.
 ## **🚀 Next Steps**  
 - **Rust**: High-performance blockchain protocols.  
 - **Go**: Concurrent backend architectures.  
-- **ZKPs**: Exploring zero-knowledge proofs.  
-- **Agile**: Scrum/Kanban for lean development.  
+- **ZKPs**: Exploring zero-knowledge proofs.   
 
 ---
 
 ## 🛠️ **Now Working On**  
-### [**Zap**](https://github.com/mcatalan15/Zap) 🚧  
-↳ *Decentralized EXchange (DEX)* | *TypeScript, Go, Solidity, Ethereum*
+### [**Tokenizer**](https://github.com/mcatalan15/Tokenizer) 🚧  
+↳ *Creation of an ERC-20 Token* | *Solidity, Foundry, Sepolia ETH Testnet, *
 ### [**42sh**](https://github.com/mrlouf/42sh) 🚧  
 ↳ *Outer Core* | *Building a bash shell in C* 
-### [**ft_linux**](https://github.com/mcatalan15/ft_linux) 🚧  
-↳ *Outer Core* | *Building a basic Linux distro for kernel development using LFS*
 
 ---
 
