@@ -81,7 +81,4 @@ Full-Stack: TypeScript | Fastify | Tailwind | SQLite
 
 --- 
 
-### **✨ GitHub Stats** (I don't really care about this but seems fancy)  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mcatalan15&show_icons=true&theme=radical)  
 
---- 
