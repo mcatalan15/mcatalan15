@@ -22,22 +22,19 @@ Passionate about **autonomy, privacy, and systems that resist censorship**.
 
 ---
 
-## **🚀 Next Steps**  
-- **Rust**: High-performance blockchain protocols.  
-- **Go**: Concurrent backend architectures.  
-- **ZKPs**: Exploring zero-knowledge proofs.   
-
----
-
 ## 🛠️ **Now Working On**  
-### [**Tokenizer**](https://github.com/mcatalan15/Tokenizer) 🚧  
-↳ *Creation of an ERC-20 Token* | *Solidity, Foundry, Sepolia ETH Testnet, *
-### [**42sh**](https://github.com/mrlouf/42sh) 🚧  
+### [**TokenizeArt**](https://github.com/mcatalan15/TokenizeArt) 🚧
+↳ *Creation of an ERC-721 Token* | *Solidity, Foundry, Sepolia ETH Testnet *
+### [**42sh**](https://github.com/mrlouf/42sh) 🚧
 ↳ *Outer Core* | *Building a bash shell in C* 
 
 ---
 
 ## **🎓 Education Highlights**  
+
+### **Blockchain Development**
+- **[**TokenizeArt**](https://github.com/mcatalan15/TokenizeArt)**: Creation of an ERC-721 Token at the Sepolia ETH Testnet.
+- **[**Tokenizer**](https://github.com/mcatalan15/Tokenizer)**: Creation of an ERC-20 Token at the Sepolia ETH Testnet.
 
 ### **42 Barcelona** *(Low-Level & Algorithms)*  
 - **[ft_transcendence](https://github.com/mcatalan15/ft_transcendence)**: Full-stack Pong with blockchain, 2FA, and microservices.
